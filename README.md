@@ -7,6 +7,9 @@ Currently in break for my maternity. Upskilling myself to join back as an fronte
   2. Node JS
   3. Repl.it
   4. CHALK
+  5. Reactjs
+  
+
 
    
   
